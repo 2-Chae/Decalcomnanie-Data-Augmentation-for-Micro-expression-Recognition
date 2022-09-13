@@ -1,0 +1,11 @@
+.history/
+
+*.ipynb
+*.sh
+*.mp4
+*temp*
+*past*
+*.txt
+*.gif
+*.pth
+*.csv
