@@ -14,7 +14,7 @@ See [get_started.md](docs/get_started.md).
 ## Before you start training,
 See [preprocessing.md](docs/preprocessing.md)
 
-## Shared bacbone and multiple losses (SBML)
+## Shared backbone and multiple losses (SBML)
 
 You can choose the code depending on the case instead of `SMBL_LR_infer_LR.py`.  
 Check [here](SBML/).
